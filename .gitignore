@@ -1,0 +1,21 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment/secret files
+.env
+
+# Distribution/build outputs
+*.egg-info/
+build/
+dist/
+
+# macOS Finder junk
+.DS_Store
+
+# VS Code project settings
+.vscode/
